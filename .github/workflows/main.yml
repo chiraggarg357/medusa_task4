@@ -16,8 +16,4 @@ jobs:
 
     # Example step to list files in the repository
     - name: List files in the repository
-<<<<<<< HEAD
       run: ls -la
-=======
-      run: ls -la
->>>>>>> 67b369d21ee43e009b38b90ff8c6938b3a0b5ebd
